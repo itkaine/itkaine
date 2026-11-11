@@ -64,3 +64,5 @@ const kai = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,50:E45FB0,100:7F5AF0&height=120&section=footer" width="100%" alt="" />
 </p>
+
+<!-- Thanks for visiting! -->
