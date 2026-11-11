@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E45FB0&center=true&vCenter=true&width=520&lines=Building+pixel-perfect+interfaces+%E2%9C%A8;React+%C2%B7+React+Native+%C2%B7+Flutter;Turning+coffee+into+clean+UI+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E45FB0&center=true&vCenter=true&width=520&lines=Building+pixel-perfect+interfaces+%E2%9C%A8;React+%C2%B7+Vue+%C2%B7+Angular+%C2%B7+Ionic;Turning+coffee+into+clean+UI+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,18 +25,18 @@
 const kai = {
   role: "Frontend Developer",
   location: "Vietnam 🇻🇳",
-  focus: ["Web UI", "Mobile apps", "Design systems"],
+  stack: ["React", "Vue", "Angular", "Ionic", "TypeScript"],
   currently: "Shipping fast, clean & responsive interfaces",
-  funFact: "I design in Figma/XD before I code 🎨",
+  funFact: "I design in Figma before I code 🎨",
 };
 ```
 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express&perline=9" alt="Web stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,mysql,php,bun,git,postman&perline=9" alt="Mobile & backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,blender,vscode,github,heroku&perline=8" alt="Design & tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,jquery&perline=8" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,ionic,vite,wordpress&perline=6" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun,npm,figma,ps,ai&perline=9" alt="Tools & design" />
 </p>
 
 ### 📊 GitHub stats
