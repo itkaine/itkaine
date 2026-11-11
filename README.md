@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/i-m-kai-8976251b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/voducmanh99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://twitter.com/voducmanh1999"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://komarev.com/ghpvc/?username=itkaine&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=voducmanh99&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
