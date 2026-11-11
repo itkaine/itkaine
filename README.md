@@ -35,7 +35,7 @@ const kai = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,jquery&perline=8" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,ionic,vite,wordpress&perline=6" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular" height="48" alt="React, Vue, Angular" /><img src="icons/ionic.svg" height="48" alt="Ionic" /><img src="https://skillicons.dev/icons?i=vite,wordpress" height="48" alt="Vite, WordPress" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun,npm,figma,ps,ai&perline=9" alt="Tools & design" />
 </p>
 
